@@ -1,1 +1,34 @@
-# super-duper-potato
+# repo-setup-sample
+
+이 프로젝트는 Githup에서 Repository를 사용할 때 관리해야 할 것들을 연습하기 위한 repository 입니다.
+
+[See Demo](https://github.com/cutegyuseok/repo-setup-sample.git)
+
+## Prerequisite
+
+- java : ^11.0
+- spring boot
+
+
+## How to Start
+
+```shell
+$ git clone {repo addr}
+$ cd repo-setup-sample
+$ npm install
+$ npm start
+```
+## Features
+
+- Blog
+- Reply
+- My page
+
+## Contributors
+|username|Real name|github link|
+|:--:|:--:|:--:|
+|cutegyuseok|Gyuseok Lee|[cutegyuseok](https://github.com/cutegyuseok)|
+
+## References
+
+--[wiki]
